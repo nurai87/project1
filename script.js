@@ -1,3 +1,3 @@
 <script>
-   alert( 'Привет, мир!' );
+   alert( 'Привет, NIX Education!' );
  </script>
